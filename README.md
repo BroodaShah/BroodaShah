@@ -31,12 +31,12 @@ broodashah/broodashah is a ✨ special ✨ repository because its README.md (thi
 
 ### 📊 My GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=broodashah&column=8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Profile Trophies](https://github-profile-trophy.vercel.app/?username=broodashah&column=8&no-frame=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=broodashah&card_width=500&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Brooda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=broodashah&card_width=500&show_icons=true&hide_border=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broodashah&card_width=500&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broodashah&card_width=500&layout=compact&hide_border=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=broodashah&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streaks](https://streak-stats.demolab.com?user=broodashah&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=broodashah&color=E06C73&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=broodashah&color=E06C73&style=for-the-badge)
