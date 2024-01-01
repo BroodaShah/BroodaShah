@@ -18,7 +18,7 @@ broodashah/broodashah is a ✨ special ✨ repository because its README.md (thi
 - 🚩 I occasionally participate in CTFs
 - 💬 Ask me about my learning journey anytime
 - ⚡ Fun fact about me: I started programming  at age 13
-- 🥅 2023 goal: Make a web portfolio and start a blog
+- 🥅 2024 goal: Make a web portfolio and start a blog
 - 📫 How to reach me: [Linktree](https://linktr.ee/broodashah "Linktree")
 
 ---
